@@ -1,0 +1,38 @@
+body {
+  background-image: url('IMG/julia-koizumi-AHw0rn5yzog-unsplash.jpg');
+  background-size: cover;
+}
+
+table {
+  margin: 55px auto;
+  width: 500px;
+  height: 500px;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+.countdown {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
