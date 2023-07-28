@@ -1,4 +1,4 @@
-Game "Guess the ten numbers"
+# Game "Guess the ten numbers"
 
 
 ** The essence of the game: the computer randomly guesses ten numbers. In the allotted time, namely thirty seconds, it is important to guess these numbers by clicking on them (numbers from one to one hundred).
@@ -10,4 +10,4 @@ Game "Guess the ten numbers"
 ** If you have guessed all ten numbers, a congratulatory text appears instead of a timer.
 
 
-**Have a nice game, with love Vadym Kulinich (VK)
+>## Have a nice game, with love Vadym Kulinich (VK)
