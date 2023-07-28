@@ -1,4 +1,4 @@
-                       Game "Guess the ten numbers"
+                                                                   Game "Guess the ten numbers"
 
 ** The essence of the game: the computer randomly guesses ten numbers. In the allotted time, namely thirty seconds, it is important to guess these numbers by clicking on them (numbers from one to one hundred),
 ** When pressed correctly, the number is highlighted in green, and when pressed incorrectly, in red.
